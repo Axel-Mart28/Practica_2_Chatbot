@@ -1,0 +1,10 @@
+{
+    "conocimiento": {
+        "hola": "\u00a1Hola! Bienvenido a Pasteler\u00eda Dulce C\u00f3digo, \u00bfEn qu\u00e9 puedo ayudarte?",
+        "como estas?": "\u00a1Horneando con mucha energ\u00eda! \u00bfY t\u00fa?",
+        "de que te gustaria hablar?": "Me encanta hablar de pasteles, recetas, o puedo tomar tu pedido.",
+        "venden galletas?": "no, no vendemos",
+        "quiero consultar un pedido": "consultar pedido"
+    },
+    "pedidos": {}
+}
